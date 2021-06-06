@@ -1,0 +1,4 @@
+torch>1.5
+numpy
+kaggle_environments
+stable_baselines3
